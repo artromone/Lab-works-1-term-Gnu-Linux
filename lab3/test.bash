@@ -1,0 +1,1 @@
+head -n+$(($1+$2-1)) example.txt | tail -n+$2

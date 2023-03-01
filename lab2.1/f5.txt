@@ -1,0 +1,2 @@
+win@domain.domain
+hello
